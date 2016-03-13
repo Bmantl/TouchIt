@@ -1,0 +1,14 @@
+c:\users\boris\documents\visual studio 2015\Projects\ReadyGUI\ReadyGUI\bin\Debug\ReadyGUI.exe.config
+c:\users\boris\documents\visual studio 2015\Projects\ReadyGUI\ReadyGUI\bin\Debug\ReadyGUI.exe
+c:\users\boris\documents\visual studio 2015\Projects\ReadyGUI\ReadyGUI\bin\Debug\ReadyGUI.pdb
+c:\users\boris\documents\visual studio 2015\Projects\ReadyGUI\ReadyGUI\obj\Debug\ReadyGUI.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2015\Projects\ReadyGUI\ReadyGUI\obj\Debug\MainWindow.g.cs
+c:\users\boris\documents\visual studio 2015\Projects\ReadyGUI\ReadyGUI\obj\Debug\App.g.cs
+c:\users\boris\documents\visual studio 2015\Projects\ReadyGUI\ReadyGUI\obj\Debug\ReadyGUI_MarkupCompile.cache
+c:\users\boris\documents\visual studio 2015\Projects\ReadyGUI\ReadyGUI\obj\Debug\ReadyGUI_MarkupCompile.lref
+c:\users\boris\documents\visual studio 2015\Projects\ReadyGUI\ReadyGUI\obj\Debug\MainWindow.baml
+c:\users\boris\documents\visual studio 2015\Projects\ReadyGUI\ReadyGUI\obj\Debug\ReadyGUI.g.resources
+c:\users\boris\documents\visual studio 2015\Projects\ReadyGUI\ReadyGUI\obj\Debug\ReadyGUI.Properties.Resources.resources
+c:\users\boris\documents\visual studio 2015\Projects\ReadyGUI\ReadyGUI\obj\Debug\ReadyGUI.csproj.GenerateResource.Cache
+c:\users\boris\documents\visual studio 2015\Projects\ReadyGUI\ReadyGUI\obj\Debug\ReadyGUI.exe
+c:\users\boris\documents\visual studio 2015\Projects\ReadyGUI\ReadyGUI\obj\Debug\ReadyGUI.pdb

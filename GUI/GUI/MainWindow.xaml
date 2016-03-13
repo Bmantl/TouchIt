@@ -1,0 +1,25 @@
+﻿<Window x:Class="GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="1280" Background="{x:Null}"
+>
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Image gif:ImageBehavior.AnimatedSource="Images/bg.gif" />
+        <Canvas HorizontalAlignment="Left" Height="720" Margin="0,0,0,0" VerticalAlignment="Top" Width="1280">
+            <Image x:Name="hammer" HorizontalAlignment="Left" Height="151" Margin="0,0,0,0" VerticalAlignment="Top" Width="234" Source="Images/hammer.png" Canvas.Left="88" Canvas.Top="739"/>
+            <Image x:Name="rocket" HorizontalAlignment="Left" Height="151" Margin="0,0,0,0" VerticalAlignment="Top" Width="261" Source="Images/rocket.png" Canvas.Left="378" Canvas.Top="739"/>
+            <Image x:Name="rail" HorizontalAlignment="Left" Height="151" Margin="0,0,0,0" VerticalAlignment="Top" Width="261" Source="Images/shockut.png" Canvas.Left="636" Canvas.Top="739"/>
+            <Image x:Name="link" HorizontalAlignment="Left" Height="151" Margin="0,0,0,0" VerticalAlignment="Top" Width="261" Source="Images/link.png" Canvas.Left="923" Canvas.Top="739"/>
+        </Canvas>
+
+    </Grid>
+</Window>
